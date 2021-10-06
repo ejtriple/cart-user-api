@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cart.User.API", "Cart.User.API\Cart.User.API.csproj", "{76DEFFD9-78C8-40B5-B9FB-E7FC386ED762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cart.User.GraphQL", "Cart.User.GraphQL\Cart.User.GraphQL.csproj", "{FD9E72F8-CDB5-4069-A895-32423C48A267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cart.User.Domain", "Cart.User.Domain\Cart.User.Domain.csproj", "{A1647BF2-91FC-46D1-94B0-B535762BCB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76DEFFD9-78C8-40B5-B9FB-E7FC386ED762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DEFFD9-78C8-40B5-B9FB-E7FC386ED762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DEFFD9-78C8-40B5-B9FB-E7FC386ED762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DEFFD9-78C8-40B5-B9FB-E7FC386ED762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9E72F8-CDB5-4069-A895-32423C48A267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9E72F8-CDB5-4069-A895-32423C48A267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9E72F8-CDB5-4069-A895-32423C48A267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9E72F8-CDB5-4069-A895-32423C48A267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1647BF2-91FC-46D1-94B0-B535762BCB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1647BF2-91FC-46D1-94B0-B535762BCB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1647BF2-91FC-46D1-94B0-B535762BCB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1647BF2-91FC-46D1-94B0-B535762BCB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
